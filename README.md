@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Dilara's GitHub stats](https://github-readme-stats.vercel.app/api?username=kullanıcıadın&show_icons=true&theme=dark)
+![Dilara's GitHub stats](https://github-readme-stats.vercel.app/api?username=dilaratetik&show_icons=true&theme=dark)
 
 <!--
 **dilaratetik/dilaratetik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
