@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![](https://nirzak-streak-stats.vercel.app/?user=dilaratetik&theme=rose_pine&hide_border=false)
 <!--
 **dilaratetik/dilaratetik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
